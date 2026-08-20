@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0016-3sum-closest) |
+| [0142-linked-list-cycle-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -43,10 +44,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/HimanshuKandpal075/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Counting
 |  |
 | ------- |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/HimanshuKandpal075/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
