@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0187-repeated-dna-sequences](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0229-majority-element-ii) |
@@ -77,5 +78,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
