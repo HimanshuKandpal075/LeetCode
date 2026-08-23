@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0713-subarray-product-less-than-k](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/HimanshuKandpal075/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Two Pointers
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## String
 |  |
 | ------- |
@@ -104,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
