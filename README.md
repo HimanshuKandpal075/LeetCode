@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0575-distribute-candies) |
 | [0713-subarray-product-less-than-k](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/HimanshuKandpal075/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Two Pointers
 |  |
@@ -72,12 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0575-distribute-candies) |
 | [0904-fruit-into-baskets](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/HimanshuKandpal075/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0383-ransom-note) |
+| [0992-subarrays-with-k-different-integers](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/HimanshuKandpal075/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Linked List
 |  |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
 |  |
 | ------- |
