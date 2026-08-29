@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0229-majority-element-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
