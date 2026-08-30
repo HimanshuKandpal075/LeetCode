@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0575-distribute-candies) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Math
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/HimanshuKandpal075/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -156,4 +160,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
