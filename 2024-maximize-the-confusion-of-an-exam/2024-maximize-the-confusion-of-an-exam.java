@@ -6,29 +6,31 @@ class Solution {
         int maxLen = 0;
         int maxFreq = 0;
 
+        int countT = 0;
+        int countF = 0;
+
         for(int right = 0;right<answerKey.length();right++){
             char ch = answerKey.charAt(right);
 
-            map.put(ch, map.getOrDefault(ch, 0)+1);
-
-            maxFreq = Math.max(maxFreq, map.get(ch));
-
-            int windowLen = right - left + 1;
-
-            int repl = windowLen - maxFreq;
-
-            while(repl > k){
-                char leftC = answerKey.charAt(left);
-
-                map.put(leftC, map.get(leftC) - 1);
-
-                left++;
-
-                windowLen = right - left + 1;
-
-                repl = windowLen - maxFreq;
+            if(ch == 'T'){
+                countT++;
             }
-            maxLen = Math.max(maxLen, right - left + 1);
+            else{
+                countF++;
+            }
+
+            maxFreq = Math.max(countT, countF);
+
+            while(right - left + 1 - maxFreq > k){
+                if(answerKey.charAt(left) == 'T'){
+                    countT--;
+                }
+                else{
+                    countF--;
+                }
+                left++;
+            }
+            maxLen = Math.max(right - left + 1, maxLen);
         }
         return maxLen;
     }
