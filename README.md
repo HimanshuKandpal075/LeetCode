@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0648-replace-words](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0648-replace-words) |
 | [0713-subarray-product-less-than-k](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0648-replace-words](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0648-replace-words) |
 | [0904-fruit-into-baskets](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0648-replace-words](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0648-replace-words) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HimanshuKandpal075/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0648-replace-words](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0648-replace-words) |
 ## Stack
 |  |
 | ------- |
