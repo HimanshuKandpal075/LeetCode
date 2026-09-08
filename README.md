@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
