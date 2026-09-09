@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Greedy
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0202-happy-number) |
 | [3870-count-commas-in-range](https://github.com/HimanshuKandpal075/LeetCode/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0229-majority-element-ii) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0202-happy-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
