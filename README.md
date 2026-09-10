@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Greedy
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Memoization
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0648-replace-words) |
 | [0929-unique-email-addresses](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
