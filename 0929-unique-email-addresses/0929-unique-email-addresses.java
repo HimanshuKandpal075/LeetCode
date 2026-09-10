@@ -8,22 +8,14 @@ class Solution {
             String local = parts[0];
             String domain = parts[1];
 
-            StringBuilder ans = new StringBuilder();
-
-            for(char ch: local.toCharArray()){
-                if(ch == '+'){
-                    break;
-                }
-                else if(ch == '.'){
-                    continue;
-                }
-                else{
-                    ans.append(ch);
-                }
+            if(local.contains("+")){
+                int index = local.indexOf('+');
+                local = local.substring(0, index);
             }
+            local = local.replace(".", "");
 
-            ans.append("@").append(domain);
-            set.add(ans.toString());
+            String newEmail = local + "@" + domain;
+            set.add(newEmail);
         }
         return set.size();
     }
