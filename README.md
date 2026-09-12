@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/HimanshuKandpal075/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2399-check-distances-between-same-letters](https://github.com/HimanshuKandpal075/LeetCode/tree/master/2399-check-distances-between-same-letters) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HimanshuKandpal075/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## String
