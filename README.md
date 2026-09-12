@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0648-replace-words](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0648-replace-words) |
+| [0771-jewels-and-stones](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0648-replace-words) |
+| [0771-jewels-and-stones](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
