@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0020-valid-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0383-ransom-note](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0389-find-the-difference) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
