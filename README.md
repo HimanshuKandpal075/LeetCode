@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0648-replace-words) |
+| [0695-max-area-of-island](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0929-unique-email-addresses) |
@@ -294,8 +295,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0695-max-area-of-island](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0695-max-area-of-island) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0020-valid-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0695-max-area-of-island) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0695-max-area-of-island) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
