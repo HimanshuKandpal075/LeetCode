@@ -3,15 +3,13 @@ class Solution {
         int n = grid.length;
         int m = grid[0].length;
 
-        boolean vis[][] = new boolean[n][m];
-
         int max = 0;
         int count = 0;
 
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(grid[i][j] == 1 && !vis[i][j]){
-                    count = helper(grid, i, j, vis);
+                if(grid[i][j] == 1){
+                    count = helper(grid, i, j);
                     max = Math.max(max, count);
                 }
             }
@@ -19,27 +17,21 @@ class Solution {
         return max;
     }
 
-    static int helper(int[][] grid, int r, int c, boolean vis[][]){
+    static int helper(int[][] grid, int r, int c){
         int n = grid.length;
         int m = grid[0].length;
 
-        int[] dr = {-1, 1, 0, 0};
-        int[] dc = {0, 0, 1, -1};
-
-        vis[r][c] = true;
-        int count = 1;
-
-        for(int i=0;i<4;i++){
-            int nR = r + dr[i];
-            int nC = c + dc[i];
-
-            if(nR >= 0 && nR < n && 
-                nC >= 0 && nC < m &&
-                grid[nR][nC] == 1 && 
-                !vis[nR][nC]){
-                    count += helper(grid, nR, nC, vis);
-                }
+        if(r < 0 || r >= n || 
+                c < 0 || c >= m ||
+                grid[r][c] == 0 ){
+                    return 0;
         }
-        return count;
+        else{
+            grid[r][c] = 0;
+            return 1 + helper(grid, r+1, c) +
+                helper(grid, r-1, c)+
+                helper(grid, r, c+1)+
+                helper(grid, r, c-1);
+        }
     }
 }
