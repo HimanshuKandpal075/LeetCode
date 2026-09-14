@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0018-4sum) |
+| [0053-maximum-subarray](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0198-house-robber) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Heap (Priority Queue)
