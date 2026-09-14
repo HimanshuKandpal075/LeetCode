@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1052-grumpy-bookstore-owner](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/HimanshuKandpal075/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0695-max-area-of-island](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -306,14 +308,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0695-max-area-of-island](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
