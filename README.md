@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/HimanshuKandpal075/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2399-check-distances-between-same-letters](https://github.com/HimanshuKandpal075/LeetCode/tree/master/2399-check-distances-between-same-letters) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/HimanshuKandpal075/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1020-number-of-enclaves) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/HimanshuKandpal075/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1020-number-of-enclaves) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/HimanshuKandpal075/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1020-number-of-enclaves) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/HimanshuKandpal075/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -332,4 +336,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1020-number-of-enclaves) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/HimanshuKandpal075/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
