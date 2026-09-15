@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0929-unique-email-addresses](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0905-sort-array-by-parity](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Greedy
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
 | ------- |
