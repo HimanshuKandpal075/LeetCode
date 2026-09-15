@@ -8,7 +8,7 @@ class Solution {
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(grid[i][j] > 0){
-                    int sum = dfs(grid, i, j);
+                    int sum = helper(grid, i, j);
                     max = Math.max(max, sum);
                 }
             }
@@ -16,26 +16,19 @@ class Solution {
         return max;
     }
 
-    static int dfs(int[][] grid, int r, int c){
+    static int helper(int[][] grid, int r, int c){
         int n = grid.length;
         int m = grid[0].length;
 
-        int[] dr = {-1, 1, 0, 0};
-        int[] dc = {0, 0, 1, -1};
+        if(r < 0 || r >= n || 
+            c < 0 || c >= m ||
+            grid[r][c] == 0){
+                return 0;
+        }
 
         int sum = grid[r][c];
         grid[r][c] = 0;
 
-        for(int i=0;i<4;i++){
-            int nR = r + dr[i];
-            int nC = c + dc[i];
-
-            if(nR >= 0 && nR < n && 
-                nC >= 0 && nC < m &&
-                grid[nR][nC] != 0){
-                    sum += dfs(grid, nR, nC);
-                }
-        }
-        return sum;
+        return sum + helper(grid, r+1, c) + helper(grid, r-1, c) + helper(grid, r, c+1) + helper(grid, r, c-1);
     }
 }
