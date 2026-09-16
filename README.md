@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0419-battleships-in-a-board](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0575-distribute-candies) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0419-battleships-in-a-board](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0419-battleships-in-a-board](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1020-number-of-enclaves) |
