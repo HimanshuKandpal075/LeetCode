@@ -3,19 +3,11 @@ class Solution {
         HashMap<String, List<String>> map = new HashMap<>();
 
         for(String s: strs){
-            int[] f = new int[26];
+            char[] ch = s.toCharArray();
 
-            for(char ch: s.toCharArray()){
-                f[ch - 'a']++;
-            }
+            Arrays.sort(ch);
 
-            StringBuilder sb  = new StringBuilder();
-
-            for(int num: f){
-                sb.append(num).append("#");
-            }
-
-            String key = sb.toString();
+            String key = new String(ch);
 
             map.putIfAbsent(key, new ArrayList<>());
             map.get(key).add(s);
