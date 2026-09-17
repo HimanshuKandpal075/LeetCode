@@ -39,21 +39,18 @@ class Solution {
         int n = board.length;
         int m = board[0].length;
 
-        int[] dr = {-1, 1, 0, 0};
-        int[] dc = {0, 0, 1, -1};
+        if(r < 0 || r >= n ||
+            c < 0 || c >= m ||
+            board[r][c] == 'X' ||
+            vis[r][c]){
+                return;
+            }
 
         vis[r][c] = true;
 
-        for(int i=0;i<4;i++){
-            int nR = r + dr[i];
-            int nC = c + dc[i];
-
-            if(nR >= 0 && nR < n &&
-                nC >= 0 && nC < m &&
-                board[nR][nC] == 'O' &&
-                !vis[nR][nC]){
-                    helper(board, nR, nC, vis);
-            }
-        }
+        helper(board, r+1, c, vis);
+        helper(board, r-1, c, vis);
+        helper(board, r, c+1, vis);
+        helper(board, r, c-1, vis);
     }
 }
