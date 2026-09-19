@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0575-distribute-candies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0648-replace-words) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0392-is-subsequence) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0409-longest-palindrome) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/HimanshuKandpal075/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Sorting
 |  |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Math
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Recursion
 |  |
@@ -379,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
