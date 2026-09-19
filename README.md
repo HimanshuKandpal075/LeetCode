@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0075-sort-colors) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -393,5 +397,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
