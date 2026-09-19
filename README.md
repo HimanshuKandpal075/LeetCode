@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0844-backspace-string-compare](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Greedy
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0648-replace-words) |
 | [0771-jewels-and-stones](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HimanshuKandpal075/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Recursion
 |  |
 | ------- |
@@ -372,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/HimanshuKandpal075/LeetCode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
